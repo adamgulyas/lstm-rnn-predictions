@@ -2,7 +2,7 @@
 
 ## Summary
 
-With the goal of predicting future Bitcoin price movement, two LSTM RNN models will be fit to two different metrics: the closing price history of Bitcoin, and daily values of the Crypto Fear & Greed Index. This analysis evalutes the predictive performance of the same model working with two different datasets.
+With the goal of predicting price movement of Bitcoin, two LSTM RNN models will be fit to two different metrics: the closing price history of Bitcoin, and daily values of the Crypto Fear & Greed Index. This analysis evalutes the predictive performance of the same LSTM RNN model usings these two separate metrics as inputs.
 
 ## Usage
 
