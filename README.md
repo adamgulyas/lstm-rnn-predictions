@@ -46,4 +46,4 @@ As made evident by the line charts, the Closing Price model tracks real values b
 
 ### Which window size works best for the model?
 
-A window of 1 works best for the model. It reduces the loss function and increases the speed of fitting.
+A window of 1 works best for the model as it reduces the loss function and increases the speed of fitting. The tradeoff is that it's only ever predicting one day into the future. If a longer term prediction window were used, the predictions would most likely be less accurate.
