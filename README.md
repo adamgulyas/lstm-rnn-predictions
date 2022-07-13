@@ -1,4 +1,4 @@
-# LSTM Recurrent Neural Network Stock Price Predictor
+# LSTM Recurrent Neural Network Price Predictor
 
 ## Summary
 
